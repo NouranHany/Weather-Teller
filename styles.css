@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  background-color: #112D4E;
+  color: #F9F7F7;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  margin: 10% 0 3%;
+  font-weight: bolder;
+  font-size: 4rem;
+}
+
+form{
+  font-size: 1.5rem;
+}
+
+.city-label{
+  display: block;
+}
+
+.city-input{
+  width: 20%;
+  margin: 0.5%;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  padding-left: 15px;
+  vertical-align: middle;
+}
+
+.btn{
+  vertical-align: middle;
+}
+
+footer{
+  position: fixed;
+  bottom: 8%;
+  right: 45%;
+}
+
+.footer-link{
+  color: #F9F7F7;
+  margin: 3%;
+}
+
+.footer-link:hover{
+  color: #D9CAB3;
+}
