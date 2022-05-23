@@ -7,7 +7,6 @@ An interface that calls the openweathermap API to get the weather description of
 - HTML, CSS, Javascript
 
 ## Preview
-### Preview
 - ![Demo GIF](/demo.gif)
 
 ## Packages used
